@@ -3,7 +3,7 @@
   </h1>
 
   
-  <img width="1000" height="500"  src="https://github.com/AlexGolik/AlexGolik/assets/116594829/65ede693-4d8a-4bae-94ba-03b88d0de2a2">
+  <img width="1000" height="400"  src="https://github.com/AlexGolik/AlexGolik/assets/116594829/65ede693-4d8a-4bae-94ba-03b88d0de2a2">
  
   
 
