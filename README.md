@@ -2,7 +2,7 @@
     ✨ This is the way ✨
   </h1>
 
-  <img width="1000" height="300"  src="https://github.com/AlexGolik/AlexGolik/assets/116594829/4a424d58-64d5-4dfd-a17b-1c6f667b7a30">
+  <img width="1000" height="400"  src="https://github.com/AlexGolik/AlexGolik/assets/116594829/4a424d58-64d5-4dfd-a17b-1c6f667b7a30">
 
 
   <!-- <img  align="left" src="https://github.com/AlexGolik/AlexGolik/assets/116594829/f4e6bae0-eda4-4c97-a93e-a2ed05c3fe03" alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." width="200" height="200"> -->
@@ -83,23 +83,48 @@ I am a technology enthusiast with a strong interest in developing myself   as an
 
 ---
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=alexgolik&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=alexgolik&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=alexgolik&show_icons=true"/>
-</picture>
 
-
-<picture>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexgolik&size_weight=0.5&count_weight=0.5&theme=dark"/>
-</picture>
-<picture style=" display:flex;" align="right">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexgolik&theme=dark" alt="alexgolik" />
-</picture>
-
+<head>
+    <style>
+        .row-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .column {
+            margin: 10px; /* Espacio entre las imágenes */
+        }
+    </style>
+</head>
+<body>
+    <!-- Fila -->
+    <div class="row-container">
+        <!-- Primer elemento -->
+        <div class="column">
+            <picture>
+                <source
+                    srcset="https://github-readme-stats.vercel.app/api?username=alexgolik&show_icons=true&theme=dark"
+                    media="(prefers-color-scheme: dark)"
+                />
+                <source
+                    srcset="https://github-readme-stats.vercel.app/api?username=alexgolik&show_icons=true"
+                    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+                />
+                <img src="https://github-readme-stats.vercel.app/api?username=alexgolik&show_icons=true" />
+            </picture>
+        </div>
+        <!-- Segundo elemento -->
+        <div class="column">
+            <picture>
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexgolik&size_weight=0.5&count_weight=0.5&theme=dark" />
+            </picture>
+        </div>
+        <!-- Tercer elemento -->
+        <div class="column">
+            <picture>
+                <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexgolik&theme=dark"
+                    alt="alexgolik" />
+            </picture>
+        </div>
+    </div>
+</body>
