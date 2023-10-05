@@ -3,6 +3,9 @@
   </h1>
 
   
+  <img width="1000" height="500"  src="https://github.com/AlexGolik/AlexGolik/assets/116594829/65ede693-4d8a-4bae-94ba-03b88d0de2a2">
+ 
+  
 
   <img  align="left" src="https://github.com/AlexGolik/AlexGolik/assets/116594829/f4e6bae0-eda4-4c97-a93e-a2ed05c3fe03" alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." width="200" height="200">
 
