@@ -16,10 +16,9 @@ I am a technology enthusiast with a strong interest in developing myself   as an
 
 ---
 
-<body>
-    <!-- HTML -->
-    <h3 align="left">Languages and Tools:</h3>
-    <p align="left">
+<!-- lenguajes y màs -->
+<h3 align="left">Languages and Tools:</h3>
+<p align="center">
         <!-- HTML -->
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">   
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" 
@@ -79,20 +78,16 @@ I am a technology enthusiast with a strong interest in developing myself   as an
                 alt="photoshop" width="40" height="40" />
         </a>
     </p>
-</body>
 
 ---
 
-<picture Style="display:flex;
-      justify-content:center;
-      align-items: center;
-      " >
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexgolik&size_weight=0.5&count_weight=0.5&theme=dark"/>
-</picture>
+<p align="center" > 
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexgolik&size_weight=0.5&count_weight=0.5&theme=dark"/>  
+</p>
 
-<picture Style="display:flex;
-            justify-content:center;
-            align-items: center;
-            height: 20vh;">
-            <img  src="https://github-readme-stats.vercel.app/api?username=alexgolik&show_icons=true&theme=dark"/>
-</picture>
+---
+
+<p  align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=alexgolik&show_icons=true&theme=dark"/>
+</p>
+
